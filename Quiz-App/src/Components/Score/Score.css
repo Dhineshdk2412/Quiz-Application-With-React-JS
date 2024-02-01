@@ -1,0 +1,17 @@
+.Score{
+    text-align: center;
+    background-color: white;
+    margin: 2%;
+    padding: 10%;
+    border: 1px solid black;
+}
+.Score h2{
+    color: orangered;
+}
+.Score span{
+    color: darkred;
+}
+.Score h3{
+    color: blue;
+    font-size: 40px;
+}
